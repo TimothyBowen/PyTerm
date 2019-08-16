@@ -1,0 +1,7 @@
+PyTerm is a port of command prompt created with Python [Version 3.6.8],
+it is created by Timothy Bowen and is under MIT copyright license.
+
+It allows you to bypass restrictions and has ease of use customisations.
+Please read 'license.txt' by running the 'license' command to find out more
+about copyrights to do with the software and your rights as a consumer.
+As of Thursday 15th August 2019 the most recent version is: [2.2].
